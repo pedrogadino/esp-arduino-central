@@ -2,6 +2,10 @@
 
 Source code based on arduino firmware for ESP8266.
 
+This is the code for the Master board. 
+
+Slave board repository: https://github.com/pedrogadino/esp-arduino-slave
+
 How it works
 
   - 1 - Master receive commands from a web request (via GET or POST)
