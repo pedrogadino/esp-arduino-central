@@ -1,4 +1,4 @@
-# ESP8266- NodeMCU
+# ESP8266- NodeMCU - MASTER
 
 Source code based on arduino firmware for ESP8266.
 
