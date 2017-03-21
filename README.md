@@ -4,7 +4,7 @@ Source code based on arduino firmware for ESP8266.
 
 This is the code for the Master board. 
 
-Slave board repository: https://github.com/pedrogadino/esp-arduino-slave
+Slave board repository: https://github.com/pedrogaldino/esp-arduino-slave
 
 How it works
 
@@ -33,4 +33,4 @@ After, this endpoints can be called:
       - Read the credientials from the EEPROM Memory (just for tests)
       
    - GET | http://{MASTER_IP_ON_NETWORK}/cmd?to={SLAVE_IP}&cmd={COMMAND_TO_EXECUTE}&value={COMMAND_PARAMS}&extra={EXTRA_PARAMS}
-      - Send command to slave ESP connect on the Master
+      - Send command to slave ESP connected on the Master
